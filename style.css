@@ -1,5 +1,4 @@
-body {
-    background: rgb(125, 198, 205);
+body {max-width: 800px;ground: rgb(125, 198, 205);
     color: rgb(45, 45, 45);
     padding: 10px;
     font-family: arial;
